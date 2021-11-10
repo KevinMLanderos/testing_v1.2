@@ -12,7 +12,7 @@
     "Biobase": {
       "Package": "Biobase",
       "Version": "2.54.0",
-      "Source": "CRAN",
+      "Source": "Bioconductor",
       "RemoteType": "standard",
       "RemotePkgRef": "Biobase",
       "RemoteRef": "Biobase",
@@ -36,7 +36,7 @@
     "DelayedArray": {
       "Package": "DelayedArray",
       "Version": "0.20.0",
-      "Source": "CRAN",
+      "Source": "Bioconductor",
       "RemoteType": "standard",
       "RemotePkgRef": "DelayedArray",
       "RemoteRef": "DelayedArray",
